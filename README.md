@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zaan994
+- 👋 Hi, I’m Rizvii
 - 👀 I’m interested in Web Development and Graphics Designing
 - 🌱 I’m currently learning Wed Application Development
 - 💞️ I’m looking to collaborate on projects
